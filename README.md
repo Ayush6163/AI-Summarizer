@@ -2,7 +2,7 @@
 
 **EchoNotes** — created by **A. Aryan**  
 A lightweight, privacy-first extractive summarizer built with Streamlit.  
-Main app file: `ai_summarizer.py` · Backend logic: `summarizer.py`
+Main app file: `app1.py`
 
 ---
 
